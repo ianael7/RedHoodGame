@@ -1,0 +1,470 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.10f1 (661833f8c66c) revision 6690867'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'fr' Physical Memory: 32598 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.1.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+D:/chap_defil_auto
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+57026
+Successfully changed project path to: D:/chap_defil_auto
+D:/chap_defil_auto
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20816] Host "[IP] 10.69.213.15 [Port] 0 [Flags] 2 [Guid] 1525297786 [EditorId] 1525297786 [Version] 1048832 [Id] WindowsEditor(7,BLC-DAU-LAB-201) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [20816] Host "[IP] 10.69.213.15 [Port] 0 [Flags] 2 [Guid] 1525297786 [EditorId] 1525297786 [Version] 1048832 [Id] WindowsEditor(7,BLC-DAU-LAB-201) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 10.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.1.10f1 (661833f8c66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.1.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/chap_defil_auto/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8072 MB
+    Driver:   31.0.15.3598
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.1.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.1.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.1.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.10f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.004743 seconds.
+- Loaded All Assemblies, in  0.479 seconds
+Native extension for Android target not found
+Android SDK Build-tools component is not found. Make sure all tools are installed in the SDK manager.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.Android.AndroidSDKTools:UpdateToolsDirectories ()
+UnityEditor.Android.AndroidSDKTools:.ctor (string)
+UnityEditor.Android.AndroidSDKTools:CreateAndroidSDKTools (string)
+UnityEditor.Android.AndroidSDKTools:GetInstance<UnityEditor.Android.AndroidSDKTools> (UnityEditor.Android.AndroidSDKTools/InstanceCreator)
+UnityEditor.Android.AndroidSDKTools:GetInstance ()
+UnityEditor.Android.AndroidDeploymentTargetsExtension:GetMainThreadContext (bool)
+UnityEditor.Android.TargetExtension:OnUsbDevicesChanged (UnityEditor.Hardware.UsbDevice[])
+UnityEditor.Android.TargetExtension:OnLoad ()
+UnityEditor.Modules.ModuleManager:InitializePlatformSupportModules ()
+
+InvalidOperationException: Cannot start process because a file name has not been provided.
+  at System.Diagnostics.Process.Start () [0x00024] in <a424216f826e4ec986df3cf1a3ff8dae>:0 
+  at (wrapper remoting-invoke-with-check) System.Diagnostics.Process.Start()
+  at UnityEditor.Android.ProgramAsShellExecute.Start (System.Diagnostics.ProcessStartInfo psi) [0x0000e] in <4709dcde0756469fa99c122f81326ca3>:0 
+  at UnityEditor.Android.Command.RunWithShellExecute (System.String command, System.String args, System.String workingdir, System.String errorMsg) [0x0003e] in <4709dcde0756469fa99c122f81326ca3>:0 
+  at UnityEditor.Android.ADB.StartServer () [0x00013] in <4709dcde0756469fa99c122f81326ca3>:0 
+  at UnityEditor.Android.ADB.Run (System.String[] command, UnityEditor.Android.Command+WaitingForProcessToExit waitingForProcessToExit, System.String errorMsg) [0x0000b] in <4709dcde0756469fa99c122f81326ca3>:0 
+  at UnityEditor.Android.AndroidDeploymentTargetsExtension.GetKnownTargets (UnityEditor.DeploymentTargets.IDeploymentTargetsMainThreadContext context, UnityEditor.ProgressHandler progressHandler) [0x00284] in <4709dcde0756469fa99c122f81326ca3>:0 
+  at UnityEditor.Android.TargetScanWorker.ScanSync () [0x00039] in <4709dcde0756469fa99c122f81326ca3>:0 
+  at UnityEditor.Android.TargetExtension.OnUsbDevicesChanged (UnityEditor.Hardware.UsbDevice[] usbDevices) [0x00081] in <4709dcde0756469fa99c122f81326ca3>:0 
+  at UnityEditor.Android.TargetExtension.OnLoad () [0x000ad] in <4709dcde0756469fa99c122f81326ca3>:0 
+  at UnityEditor.Modules.ModuleManager.InitializePlatformSupportModules () [0x000b9] in <8059afc4969f4faea44ce7e8d8dd149e>:0 
+
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.540 seconds
+Domain Reload Profiling: 1016ms
+	BeginReloadAssembly (139ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (216ms)
+		LoadAssemblies (135ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (210ms)
+			TypeCache.Refresh (209ms)
+				TypeCache.ScanAssembly (194ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (541ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (477ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (159ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (10ms)
+			ProcessInitializeOnLoadAttributes (204ms)
+			ProcessInitializeOnLoadMethodAttributes (100ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image D:\chap_defil_auto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\chap_defil_auto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.122 seconds
+Refreshing native plugins compatible for Editor in 2.24 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.863 seconds
+Domain Reload Profiling: 1983ms
+	BeginReloadAssembly (377ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (640ms)
+		LoadAssemblies (340ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (411ms)
+			TypeCache.Refresh (373ms)
+				TypeCache.ScanAssembly (356ms)
+			ScanForSourceGeneratedMonoScriptInfo (32ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (863ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (581ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (392ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 2.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4140 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 63 unused Assets / (57.1 KB). Loaded Objects now: 4682.
+Memory consumption went from 151.5 MB to 151.5 MB.
+Total: 5.937700 ms (FindLiveObjects: 0.370400 ms CreateObjectMapping: 0.451000 ms MarkObjects: 4.975500 ms  DeleteObjects: 0.139600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1482.430611 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_39.asset
+  artifactKey: Guid(d26e20b97c03b254fb9c2539d6ac7789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_39.asset using Guid(d26e20b97c03b254fb9c2539d6ac7789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb369961c43fa53d1d1e7057438da7ad') in 0.133854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_36.asset
+  artifactKey: Guid(35ff949f280c6e8489ef1215aaa9b65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_36.asset using Guid(35ff949f280c6e8489ef1215aaa9b65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb6abb69abc280a9d270b287e62be6a') in 0.008161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/tilesheet/bg_top-Sheet (1)_20.asset
+  artifactKey: Guid(500e0e49280189244b8f367d17e0094b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/bg_top-Sheet (1)_20.asset using Guid(500e0e49280189244b8f367d17e0094b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c878afcff22e9f21aa4f89ed79f8c8') in 0.007570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_9.asset
+  artifactKey: Guid(d00dda68dfb8a5141921194bd7f66827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_9.asset using Guid(d00dda68dfb8a5141921194bd7f66827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1d5a33115ad3906630f7ca458223dc') in 0.006812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/tilesheet/bg_top-Sheet (1)_11.asset
+  artifactKey: Guid(1ded494f08d3f4247960e17865b07cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/bg_top-Sheet (1)_11.asset using Guid(1ded494f08d3f4247960e17865b07cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a220d6812c13d87f88bdfdb04dc49743') in 0.015379 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_19.asset
+  artifactKey: Guid(3bc83f91bfc05f84f8ca63291a43783b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_19.asset using Guid(3bc83f91bfc05f84f8ca63291a43783b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81215751efdf939a3df97199b8e4d053') in 0.005894 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_6.asset
+  artifactKey: Guid(1ce4cd2cc8d6d73428e6ecb3b93b25b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_6.asset using Guid(1ce4cd2cc8d6d73428e6ecb3b93b25b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13c01f61de1a83c1cba3060575268088') in 0.005678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_0.asset
+  artifactKey: Guid(87ea6838d9b3d474e9161068768c5491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_0.asset using Guid(87ea6838d9b3d474e9161068768c5491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69f0694e4486870724332d5a8899f2f') in 0.004856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_41.asset
+  artifactKey: Guid(c2aea030624f6bc4d94f4d30d2b1c0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_41.asset using Guid(c2aea030624f6bc4d94f4d30d2b1c0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f33efe1c542722b007f7ee34ffc99e3') in 0.009432 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_31.asset
+  artifactKey: Guid(0ddd41b64960f044eb9637130f6b0838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_31.asset using Guid(0ddd41b64960f044eb9637130f6b0838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741f0ea997f333d9d29c18999dc9d697') in 0.012046 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_43.asset
+  artifactKey: Guid(49de16042f0b25b4f991e412242d9ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_43.asset using Guid(49de16042f0b25b4f991e412242d9ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1073360b3f0790a533bf7f816a5928a') in 0.012626 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_20.asset
+  artifactKey: Guid(ab6289b14bdba034a95438c5235cf87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_20.asset using Guid(ab6289b14bdba034a95438c5235cf87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b11832bd1da3518d6bfcbb4cd0582d') in 0.009387 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/tilesheet/bg_top-Sheet (1)_27.asset
+  artifactKey: Guid(440a9ea1f41841a43bc5288d004cafdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/bg_top-Sheet (1)_27.asset using Guid(440a9ea1f41841a43bc5288d004cafdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131595232421889f6f7bcc214a969d27') in 0.013261 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_27.asset
+  artifactKey: Guid(4f1fcb06b7aeefd4a86a75eb79f55699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_27.asset using Guid(4f1fcb06b7aeefd4a86a75eb79f55699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d049f440abb7d8cc035585f64e9929f') in 0.014234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_38.asset
+  artifactKey: Guid(c700001e4edabcd4db40dde4e5390245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_38.asset using Guid(c700001e4edabcd4db40dde4e5390245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c59adaebd546aa0813f20b844291d5d') in 0.004148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/tilesheet/bg_top-Sheet (1)_18.asset
+  artifactKey: Guid(bfe1981e422485e41b34d787120c40b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/bg_top-Sheet (1)_18.asset using Guid(bfe1981e422485e41b34d787120c40b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265c32729514e59ee3081abcf0026346') in 0.005959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_1.asset
+  artifactKey: Guid(f19f3fba47ac2e748a398d6e1f81d0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_1.asset using Guid(f19f3fba47ac2e748a398d6e1f81d0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847dbedebd949e096ffcd1a0bdb2f7b0') in 0.005255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/tilesheet/bg_top-Sheet (1)_6.asset
+  artifactKey: Guid(90e179827b221614ba3df172ece656d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/bg_top-Sheet (1)_6.asset using Guid(90e179827b221614ba3df172ece656d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b5d1a36c9ed1fbfa4c051dc9ea8b12') in 0.012245 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_47.asset
+  artifactKey: Guid(d0281f1c14b37874b85dea774a37a9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_47.asset using Guid(d0281f1c14b37874b85dea774a37a9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d196ae255276b35e0c7d4bbc107da64') in 0.017233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_37.asset
+  artifactKey: Guid(2ba96e27cfb61be4fb2a5b0ab29b067f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_37.asset using Guid(2ba96e27cfb61be4fb2a5b0ab29b067f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3361f7985d682929cf4e816a4c2490') in 0.013874 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_21.asset
+  artifactKey: Guid(2d400d55f848db2458b08f135ee5974c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_21.asset using Guid(2d400d55f848db2458b08f135ee5974c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b4f83c4310382c4df8df71878eff60') in 0.013539 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/tilesheet/bg_top-Sheet (1)_15.asset
+  artifactKey: Guid(7cb56141a374c644a9b5a79acdf0f3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/bg_top-Sheet (1)_15.asset using Guid(7cb56141a374c644a9b5a79acdf0f3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953679ff238f03adfde002df1a6bd9d6') in 0.017594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_base_23.asset
+  artifactKey: Guid(9368e369cb58b334abbb33e38d43a343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_base_23.asset using Guid(9368e369cb58b334abbb33e38d43a343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ffb64900eedab45bfa47534109ce49d') in 0.009217 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/tilesheet/scene_sprite_fver-Sheet_box.asset
+  artifactKey: Guid(df004593bd15b6c4495465ce9111b727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/scene_sprite_fver-Sheet_box.asset using Guid(df004593bd15b6c4495465ce9111b727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a43729422c6b18380ca65fda6802d3') in 0.014718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/tilesheet/bg_top-Sheet (1)_2.asset
+  artifactKey: Guid(71ecffb1859bd354892fe09ab7b13947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/bg_top-Sheet (1)_2.asset using Guid(71ecffb1859bd354892fe09ab7b13947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1043fe825ec8413f6e5fae3e700d25ac') in 0.005080 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/tilesheet/bg_top-Sheet (1)_25.asset
+  artifactKey: Guid(e434ecfb57ec76c4597924b72bac49ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesheet/bg_top-Sheet (1)_25.asset using Guid(e434ecfb57ec76c4597924b72bac49ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc01cdd4e7721235cda0c2fe9cba9c7') in 0.018067 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.066856 seconds.
+  path: Assets/sprite/apple.png
+  artifactKey: Guid(2f180a7696941074b8f3e0cdb716a213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/apple.png using Guid(2f180a7696941074b8f3e0cdb716a213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f045187aab5cea76fee2b9d6b81c308') in 0.036330 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/sprite/sprite_forest.png
+  artifactKey: Guid(834a35df515347a4b88df0e45494cd4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/sprite_forest.png using Guid(834a35df515347a4b88df0e45494cd4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68fa7fdb018efd8ea8ebafec627f477') in 0.014882 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/sprite/scene_sprite_fver-Sheet_grandma.png
+  artifactKey: Guid(94fda4317dbae4d4b81af36b2d04ccf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/scene_sprite_fver-Sheet_grandma.png using Guid(94fda4317dbae4d4b81af36b2d04ccf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e54613ed82830d59bb660642b3c224f7') in 0.011438 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/sprite/sprite_forest 1.png
+  artifactKey: Guid(9a812c11dfd661f43b8c5c3dcedb0f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite/sprite_forest 1.png using Guid(9a812c11dfd661f43b8c5c3dcedb0f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9166c9d96034e8499488ab0298205d3d') in 0.011116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
